@@ -101,7 +101,7 @@ This ensures the material network is never broken by an unknown node, though the
 ## Tested With
 
 - Maya 2026 + Arnold 7.x (`arnoldToMaterialX`)
-- Unreal Engine 5.5 (Substrate + Interchange MaterialX importer)
+- Unreal Engine 5.7.2 (Substrate + Interchange MaterialX importer)
 - MaterialX version 1.39
 
 ## License
