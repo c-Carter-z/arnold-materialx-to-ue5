@@ -12,8 +12,8 @@ To our knowledge, **no public tool existed** to solve this conversion problem be
 
 - Python 3.8+
 - No third-party libraries required (standard library only)
-- Maya 2024+ with Arnold (`arnoldToMaterialX` command)
-- Unreal Engine 5.3+ with **Interchange** and **Substrate** enabled
+- Maya 2026 with Arnold (`arnoldToMaterialX` command)
+- Unreal Engine 5.7.2 with **Interchange** and **Substrate** enabled
 
 ## Usage
 
